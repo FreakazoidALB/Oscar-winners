@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file into a DataFrame
-oscars_df = pd.read_csv('C:/Users/OnLine/Desktop/Files for py/oscars.csv')
+oscars_df = pd.read_csv('oscars.csv')
 
 
 # Convert the values in the 'Year' column to integers
